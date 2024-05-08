@@ -251,6 +251,51 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Desarrollo de aplicaciones Android con Java",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "Universidad La Salle - Ramón Llull",
+          "description": "Desarrollo de aplicaciones Android con Java",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/08/ffb083de-a2e1-4432-b0a2-b48cc934d4fa_descarga.png",
+            "alt": "descarga.png"
+          }
+        },
+        "finishDate": "2023-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Android SDK",
+            "type": "technology"
+          },
+          {
+            "name": "Android Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "MVC",
+            "type": "technology"
+          },
+          {
+            "name": "MVVM",
+            "type": "technology"
+          },
+          {
+            "name": "Retrofit",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Desarrollo de aplicaciones Java SE 11",
         "startDate": "2023-09-01",
         "institution": {
@@ -258,8 +303,8 @@
           "description": "Habilidades necesarias para diseñar aplicaciones de gran robustez, haciendo uso de la programación modular en la plataforma Java. Al mismo tiempo, explorando y aplicando con destreza los componentes fundamentales de la API de Java, tales como la Java Stream API, Java NIO.2, el Java Collections Framework, JDBC, Java Concurrency, entre otros.",
           "URL": "https://www.linkedin.com/in/roberto-vetere/details/education/922563149/multiple-media-viewer/?profileId=ACoAACXOLoABIxLAkNU5VlWCT9YFFvPzrKsyJdo&treasuryMediaId=1635546816293&type=IMAGE",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/08/8149bb7e-c37f-4dea-baad-27ec41b4c7f2_descarga-(1).jpeg",
-            "alt": "descarga (1).jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/08/823c334e-4adb-4b3c-8277-8d2d686ba7ad_descarga-(2).jpeg",
+            "alt": "descarga (2).jpeg"
           }
         },
         "finishDate": "2023-11-01",
