@@ -206,13 +206,19 @@
       },
       {
         "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "Github",
           "type": "technology"
         }
       },
@@ -231,12 +237,6 @@
       {
         "skill": {
           "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kotlin",
           "type": "technology"
         }
       },
@@ -330,15 +330,15 @@
         "type": "technology"
       },
       {
-        "name": "CSS",
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "Github",
         "type": "technology"
       },
       {
         "name": "Java",
-        "type": "technology"
-      },
-      {
-        "name": "JavaScript",
         "type": "technology"
       },
       {
