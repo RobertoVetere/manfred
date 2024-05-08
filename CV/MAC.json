@@ -280,9 +280,9 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "Grado Superior desarrollo de aplicaciones multiplataforma",
-        "startDate": "2022-09-01",
+        "startDate": "2023-09-01",
         "institution": {
           "name": "Universae",
           "description": "Las funciones del Técnico en Desarrollo de Aplicaciones Multiplataforma consisten en diseñar, programar y mantener aplicaciones que funcionen en diferentes dispositivos y sistemas operativos. Para ello, debe tener habilidades que se adquieren en la Formación Profesional (FP) específica: programación, conocimientos de lenguajes y frameworks, resolución de problemas y capacidad de adaptación a las nuevas tecnologías.",
@@ -292,7 +292,6 @@
             "alt": "descarga.jpeg"
           }
         },
-        "finishDate": "2024-02-01",
         "linkedCompetences": [
           {
             "name": "Debian",
