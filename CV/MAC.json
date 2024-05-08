@@ -1,0 +1,351 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Roberto",
+      "surnames": "Vetere",
+      "title": "Desarrollador aplicaciones multiplataforma Java, Spring Boot, Angular, Android",
+      "description": "Hola, soy un profesional dedicado al mundo de la programación con un enfoque generalista. A lo largo de mi carrera, he trabajado en la gestión de contenidos y programación frontend, pero últimamente me he centrado en el backend y los microservicios.\n\nMi objetivo es crear soluciones tecnológicas efectivas y eficientes, y me apasiona mantenerme actualizado con las últimas tendencias en desarrollo de software.\n\nTrabajo con una variedad de tecnologías, incluyendo HTML5, CSS3, JavaScript, TypeScript, Angular, Java, SpringBoot, JSON, Maven, APIs REST, HttpClient, entre otras. En el ámbito de las aplicaciones móviles, trabajoa con Android Studio, Gradle, XML y Volley.\n\nAdemás, estoy familiarizado con herramientas y plataformas como GitHub, Firebase, Docker, Render y OpenAI GPT. También he incursionado en la producción musical utilizando Ableton Live y Pro Tools.\n\nSigo una metodología Agile/Scrum para la gestión de proyectos y como habilidad adicional, disfruto de la mezcla y masterización de audio.\n\nEstoy comprometido con el crecimiento y desarrollo continuo en el campo de la programación y siempre estoy dispuesto a colaborar en proyectos interesantes. Si tienes alguna pregunta o si estás interesado en trabajar juntos, no dudes en contactarme. Estaré encantado de hablar contigo.\n\n🚀 Tecnologías que manejo, en algunas un Novato y en otras un Master:\n\nDesarrollo Web:\n\nHTML5 🌐\nCSS3 🎨\nJavaScript 💻\nTypeScript 📝\nAngular 🅰️\nReact ⚛️\n\nDesarrollo Backend:\n\nJava ☕\nSpring Boot 🌼\nJSON 🧱\nMaven 📦\nAPIs REST 🔄\nHttpClient 🌐\n\nDesarrollo de Aplicaciones Móviles:\n\nAndroid Studio 📱\nGradle 🎓\nXML 📄\nVolley 🏐\n\nHerramientas y Plataformas:\n\nGitHub 🐙\nFirebase 🔥\nDocker 🐳\nRender 🎨\nOpenAI GPT 🤖\n\nProducción Musical:\n\nAbleton Live 🎧\nPro Tools 🛠️\n🔄 Metodologías:\n\nAgile/Scrum 🔄\n🎵 Habilidades adicionales:\n\nMezcla y masterización 🎛️",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/08/a7c1d8b0-b110-4d3b-971a-f68f610c43a7_linkedin-photo-27395.linkedin-photo-27395",
+        "alt": "24/05/08/a7c1d8b0-b110-4d3b-971a-f68f610c43a7_linkedin-photo-27395.linkedin-photo-27395"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/roberto-vetere"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/RobertoVetere"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Career Break"
+        },
+        "roles": [
+          {
+            "name": "Professional development",
+            "startDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "Grado_Superior_DAM = true;\n\nBootcamp_Java_11_Avanzado_PUE = true;\nBootcamp_Java_Springboot_Ironhack = true;\nBootcamp_Java_Android_La_Salle = true;\nCiencias_computación_42_piscine = true;\nBarcelona_Activa_Javascript = true;"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ArtSpace Barcelona",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/08/3d12aafb-6bd8-4db1-a95e-94cb65aaa0f6_linkedin-photo-27395.linkedin-photo-27395",
+            "alt": "24/05/08/3d12aafb-6bd8-4db1-a95e-94cb65aaa0f6_linkedin-photo-27395.linkedin-photo-27395"
+          }
+        },
+        "roles": [
+          {
+            "name": "Programación | Marketing Digital",
+            "startDate": "2019-02-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "Skills: Marketing en motores de búsqueda (SEM) · HTML5 · Direccion marketing · SpringBoot · JavaScript · WordPress · Optimización para motores de búsqueda (SEO)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Orange España",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/08/a9d8343b-c837-4f67-a04e-f44e6811850f_linkedin-photo-27395.linkedin-photo-27395",
+            "alt": "24/05/08/a9d8343b-c837-4f67-a04e-f44e6811850f_linkedin-photo-27395.linkedin-photo-27395"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2017-09-01",
+            "finishDate": "2019-02-28",
+            "challenges": [
+              {
+                "description": "Skills: JSON · JavaScript · GitHub · Entorno Agile"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo Oesía",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/08/794f81e6-1a02-4d3e-b55a-021a9208fcfc_linkedin-photo-27395.linkedin-photo-27395",
+            "alt": "24/05/08/794f81e6-1a02-4d3e-b55a-021a9208fcfc_linkedin-photo-27395.linkedin-photo-27395"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2017-09-01",
+            "finishDate": "2019-02-28",
+            "challenges": [
+              {
+                "description": "Tienda Online de Jazztel"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Jazztel",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/08/c5298dd8-62ac-4e95-8fd5-c7ef3aa3b69f_linkedin-photo-27395.linkedin-photo-27395",
+            "alt": "24/05/08/c5298dd8-62ac-4e95-8fd5-c7ef3aa3b69f_linkedin-photo-27395.linkedin-photo-27395"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2017-09-01",
+            "finishDate": "2019-02-28",
+            "challenges": [
+              {
+                "description": "En mi trabajo en la tienda en línea de Jazztel en las oficinas de Orange en Pozuelo de Alarcón, me enfoqué en la programación y maquetación. Colaboré con el equipo en la creación de funciones y características para el sitio web utilizando Javascript. También participé en la maquetación de contenido para asegurarme de que fuera visualmente atractivo y funcional. Esto contribuyó a mejorar la experiencia de usuario y a impulsar el éxito del sitio web de Jazztel en el mercado."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Warner Music Spain",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/08/51179167-4e7e-4908-bbdf-6b55527d6ad4_linkedin-photo-27395.linkedin-photo-27395",
+            "alt": "24/05/08/51179167-4e7e-4908-bbdf-6b55527d6ad4_linkedin-photo-27395.linkedin-photo-27395"
+          }
+        },
+        "roles": [
+          {
+            "name": "Music Producer | Beatmaker",
+            "startDate": "2010-01-01",
+            "finishDate": "2014-01-01",
+            "challenges": [
+              {
+                "description": "Producción musical y mezcla del tema \"Guapa\" del artista Chojin.\nMás de 8.000.000 de reproducciones en Youtube."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Music Producer | Beatmaker | Songwriter",
+            "startDate": "2002-01-01",
+            "finishDate": "2019-02-28",
+            "challenges": [
+              {
+                "description": "He dirigido diferentes proyectos en la industria musical que han alcanzado repercusión a nivel global, entre ellos destaca el proyecto del artista Rayden del que produje su primer álbum. Producción musical y artística, composición, negociación."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "IT",
+        "fullName": "Italiano",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Java Springboot Back-End Development",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Ironhack Barcelona",
+          "URL": "https://www.credential.net/4de50103-6f7a-4d15-9a46-193bda7b0946#gs.5y81w5",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/20/4d3ab08a-5da0-46be-a9ea-7e2af70da584_java-logo.png",
+            "alt": "Java-Logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Apache Tomcat",
+            "type": "technology"
+          },
+          {
+            "name": "JPA",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "Jenkins",
+            "type": "technology"
+          },
+          {
+            "name": "Mockito",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Spring",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/roberto-vetere",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/RobertoVetere",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "roberto.vetere@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer",
+        "Mobile Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Android Studio",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal me permite crecer y seguir construyendo mi perfil profesional, no me pone frenos si no que me anima. En mi trabajo ideal me quieren, porque no hay barreras por titulitis y además, está bien visto que alguien sea muy curioso y creativo. Me motiva crear cosas, mejorar y aportar ideas. Me interesa el desarrollo de aplicaciones en Android con Java, microservicios Springboot. Mi ideal sería desarrollar aplicaciones junto a un equipo del que poder aprender. Tanto en mi vida personal como en el entorno de trabajo lo que mas valoro es la paz y la calma, la organización de calidad y la confianza entre compañeros. No tolero la competencia insana o competir por todo, me gusta vivir en entornos en los que no es necesario medir a las personas constantemente y en cambio se favorece la colaboración y el objetivo común."
+  }
+}
