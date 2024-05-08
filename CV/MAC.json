@@ -249,10 +249,40 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Desarrollo de aplicaciones Java SE 11",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "PUE",
+          "description": "Habilidades necesarias para diseñar aplicaciones de gran robustez, haciendo uso de la programación modular en la plataforma Java. Al mismo tiempo, explorando y aplicando con destreza los componentes fundamentales de la API de Java, tales como la Java Stream API, Java NIO.2, el Java Collections Framework, JDBC, Java Concurrency, entre otros.",
+          "URL": "https://www.linkedin.com/in/roberto-vetere/details/education/922563149/multiple-media-viewer/?profileId=ACoAACXOLoABIxLAkNU5VlWCT9YFFvPzrKsyJdo&treasuryMediaId=1635546816293&type=IMAGE",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/08/8149bb7e-c37f-4dea-baad-27ec41b4c7f2_descarga-(1).jpeg",
+            "alt": "descarga (1).jpeg"
+          }
+        },
+        "finishDate": "2023-11-01",
+        "linkedCompetences": [
+          {
+            "name": "Hibernate",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Grado Superior desarrollo de aplicaciones multiplataforma",
-        "startDate": "2023-09-01",
+        "startDate": "2022-09-01",
         "institution": {
           "name": "Universae",
           "description": "Las funciones del Técnico en Desarrollo de Aplicaciones Multiplataforma consisten en diseñar, programar y mantener aplicaciones que funcionen en diferentes dispositivos y sistemas operativos. Para ello, debe tener habilidades que se adquieren en la Formación Profesional (FP) específica: programación, conocimientos de lenguajes y frameworks, resolución de problemas y capacidad de adaptación a las nuevas tecnologías.",
