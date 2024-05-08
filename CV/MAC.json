@@ -497,6 +497,10 @@
           "type": "technology"
         },
         {
+          "name": "Angular Universal",
+          "type": "technology"
+        },
+        {
           "name": "Apple iOS",
           "type": "technology"
         },
