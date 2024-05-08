@@ -249,6 +249,72 @@
     ],
     "studies": [
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado Superior desarrollo de aplicaciones multiplataforma",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "Universae",
+          "description": "Las funciones del Técnico en Desarrollo de Aplicaciones Multiplataforma consisten en diseñar, programar y mantener aplicaciones que funcionen en diferentes dispositivos y sistemas operativos. Para ello, debe tener habilidades que se adquieren en la Formación Profesional (FP) específica: programación, conocimientos de lenguajes y frameworks, resolución de problemas y capacidad de adaptación a las nuevas tecnologías.",
+          "URL": "https://universae.com/grado-superior-desarrollo-aplicaciones-multiplataforma/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/08/08a6c003-a41f-4744-bd85-ee03a1db9ccd_descarga.jpeg",
+            "alt": "descarga.jpeg"
+          }
+        },
+        "finishDate": "2024-02-01",
+        "linkedCompetences": [
+          {
+            "name": "Debian",
+            "type": "technology"
+          },
+          {
+            "name": "Hibernate",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Odoo",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "UML",
+            "type": "technology"
+          },
+          {
+            "name": "Ubuntu",
+            "type": "technology"
+          },
+          {
+            "name": "VirtualBox",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Java Springboot Back-End Development",
