@@ -251,6 +251,42 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Bootcamp Frontend",
+        "startDate": "2015-09-01",
+        "institution": {
+          "name": "CEI",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/08/2a771e09-4954-4303-af11-39eabebb00e4_cei.png",
+            "alt": "cei.png"
+          }
+        },
+        "finishDate": "2016-06-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scss",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Desarrollo de aplicaciones Android con Java",
         "startDate": "2023-04-01",
         "institution": {
